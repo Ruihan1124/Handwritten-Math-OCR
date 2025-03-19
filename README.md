@@ -84,5 +84,6 @@ Feel free to contribute by improving model performance, optimizing code, or addi
 This project is licensed under the **GPL-2.0 License** due to its dependency on the [Handwritten Math Symbols Dataset](https://www.kaggle.com/datasets/sagyamthapa/handwritten-math-symbols), which is also under GPL-2.0.
 
 ## Author
-- [Your Name](https://github.com/your-username)
+- [Ruihan1124](https://github.com/Ruihan1124)
+
 
